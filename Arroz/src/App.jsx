@@ -17,6 +17,7 @@ function App() {
         <div>
           <label htmlFor="senha">Senha</label>
           <input type="password" id='senha' placeholder='Digite sua senha' />
+          <input type="password" id='senha' placeholder='Digite sua senha' />
           </div>
 
       </form>
